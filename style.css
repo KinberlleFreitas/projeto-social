@@ -8,7 +8,6 @@
 
 
 html, body{
-    margin: 0px;
     height: 100vh;
     width: 100vw;
     background-color: black;
@@ -48,10 +47,11 @@ iframe#tela{
     left: 15px;
     width: 185px;
     height: 326px ;
+    background-size: cover;
 }
 
 section#redessociais{
-    text-align: right;
+    text-align: left;
 }
 
 section#redessociais img {
